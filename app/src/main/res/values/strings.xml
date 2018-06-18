@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="error">Sorry, an error has occurred!</string>
+    <string name="error_refresh">An error has occurred!</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="overview">Overview</string>
+    <string name="movie_photo">Movie Photo</string>
+    <string name="overview_title">Overview</string>
+    <string name="average_vote_title">Average Vote</string>
+    <string name="date_of_the_release_title">Release Date</string>
+</resources>
